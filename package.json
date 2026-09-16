@@ -1,0 +1,19 @@
+{
+  "name": "divider",
+  "version": "1.0.0",
+  "description": "Divider - AI Study Set Generator",
+  "private": true,
+  "scripts": {
+    "build": "echo 'Static site'",
+    "start": "python3 -m http.server 3000"
+  },
+  "keywords": [
+    "study",
+    "education",
+    "ai",
+    "flashcards",
+    "quiz"
+  ],
+  "author": "You",
+  "license": "MIT"
+}
